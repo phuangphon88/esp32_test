@@ -1,0 +1,24 @@
+{
+  "name": "ไม้เท้าเก็บข้อมูลการเกษตรอัจฉริยะ V2",
+  "short_name": "SmartStickV2",
+  "description": "ระบบแสดงผลพิกัด GPS และอุณหภูมิภาคสนาม ไม้เท้าเก็บข้อมูลการเกษตรอัจฉริยะรุ่นที่ 2",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f1",
+  "theme_color": "#1b5e20",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
